@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans");
+
+* {
+    font-family: "Open Sans", sans-serif;
+    font-size: 14pt;
+}
+
+body {
+    background: rgb(238,238,238);
+    background: linear-gradient(0deg, rgba(238,238,238,1) 95%, #8a8989 100%);
+    color: #222;
+    margin: 0 auto;
+    width: 900px;
+}
+
+a {
+    color: rgb(41, 40, 38);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.app {
+    background-image: url(./favicon.png);
+}

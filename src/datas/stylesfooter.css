@@ -1,0 +1,14 @@
+
+.social.list {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    background-color: #3a3a3a;
+    color: #eee;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 110vh;
+}
